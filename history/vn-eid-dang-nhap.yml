@@ -1,7 +1,7 @@
 url: https://sso.dancuquocgia.gov.vn/auth?client_id=sso-icanhan-web&redirect_uri=https%3A%2F%2Fcanhan.gdt.gov.vn%2FICanhan%3Fvnconnect%3Dbcaconnect&response_type=code&scope=openid&state=
 status: up
 code: 200
-responseTime: 1247
-lastUpdated: 2026-02-24T23:38:30.247Z
+responseTime: 1240
+lastUpdated: 2026-02-25T23:34:56.140Z
 startTime: 2025-12-27T13:46:10.111Z
 generator: Upptime <https://github.com/upptime/upptime>
